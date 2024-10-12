@@ -1,4 +1,4 @@
-width=300
+columns=2
 allow_images=true
 image_size=16
 prompt=Search...

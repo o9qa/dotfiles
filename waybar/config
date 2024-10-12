@@ -3,7 +3,7 @@
     "output": "eDP-1",
     "position": "left",
     "spacing": 4,
-    "width": 38,
+    "width": 30,
     "margin-top": 10,
     "margin-bottom": 10,
     "margin-left": 10,
@@ -16,7 +16,7 @@
     "hyprland/workspaces": {
     	"format": "{icon}",
       "persistent-workspaces": {
-        "*": 6 
+        "*": 3 
       },
       "format-icons": {
         "default": "",
